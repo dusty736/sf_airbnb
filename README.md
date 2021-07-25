@@ -1,5 +1,5 @@
 # San Francisco AirBnB Analysis
-## Author: Dustin Burnham (@dusty736)
+## Author: Dustin Burnham
 
 
 ### Proposal
