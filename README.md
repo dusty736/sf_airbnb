@@ -26,3 +26,6 @@ In this analysis I will use publicly available [AirBnB data](http://insideairbnb
 
 ### Disclaimer
 This project is not being used for any monetary reason.
+
+## Modeling
+Training: The model will be trained on temporal data.  For a given day, we have all of the data for all properties.  Use a time series analysis regression model to be able to predict property price given a properties attributes, and time of year.
